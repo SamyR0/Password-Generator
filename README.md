@@ -1,2 +1,2 @@
 # Password-Generator
-<h1>scripts to generate a strong password :D</h1>
+<h3>Scripts to generate heavy passwords in different languages :D</h3>
