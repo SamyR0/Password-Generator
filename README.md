@@ -1,2 +1,2 @@
 # Password-Generator
-a little script to generate a strong password written in java :D
+<h1>scripts to generate a strong password :D</h1>
